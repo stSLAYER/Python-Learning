@@ -4,5 +4,5 @@ I plan to do things like create little python based games and convenient task au
 but hopefully in the future I'll be able to take on bigger tasks like automating exploits for vulnerable services! 
 
 <h3>Progress so far</h3>
-I've covered the basics so far and this is what I've made so far: <br>
+I've covered the basics and this is what I've made so far: <br>
 - OWASP question based quiz
